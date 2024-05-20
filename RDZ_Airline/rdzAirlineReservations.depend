@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1654141790 source:c:\users\ra\documents\c++\rdzairlinereservations\main.cpp
+	<iostream>
+
+1654396842 source:f:\bin\programming\airline\main.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<time.h>
+
+1654426006 source:c:\users\jael\documents\codes\airline\main.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<time.h>
+
+1655039976 source:c:\users\ra\downloads\airline-20220605t121016z-001\airline\main.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+
+1654995544 source:c:\users\ra\downloads\prog\rdz_airline-20220903t044643z-001\rdz_airline\main.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+
